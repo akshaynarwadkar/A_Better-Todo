@@ -7,6 +7,7 @@ const ul = document.querySelectorAll('ul li')
 //  console.log(ul)
 console.log(search)
 
+
 // form.addEventListener('submit', e =>{
 //     e.preventDefault()
 //     const todo = form.add.value.trim()
