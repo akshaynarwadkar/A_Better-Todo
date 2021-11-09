@@ -11,7 +11,6 @@ form.addEventListener('submit', e =>{
 
     if(todo.length)
     {
-
         const html = `
         <li class="list-group-item d-flex justify-content-between align-items-center">
             <span>${todo}</span>
